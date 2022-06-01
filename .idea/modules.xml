@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Checkboxes/Checkboxes.iml" filepath="$PROJECT_DIR$/Checkboxes/Checkboxes.iml" />
       <module fileurl="file://$PROJECT_DIR$/First/First.iml" filepath="$PROJECT_DIR$/First/First.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Applet-Legacy.iml" filepath="$PROJECT_DIR$/.idea/Java-Applet-Legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/house/house.iml" filepath="$PROJECT_DIR$/house/house.iml" />
     </modules>
   </component>
