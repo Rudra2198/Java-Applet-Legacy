@@ -27,7 +27,7 @@ public class Login extends Applet implements ActionListener{
     }
 
     public void actionPerformed(ActionEvent ae){
-        
+
         if(ae.getSource() == b1 && t1.getText().equals("Rudra") && t2.getText().equals("123")){
             l3.setText("Login Success");
         }
